@@ -1,0 +1,8 @@
+total 53
+drwxr-xr-x 1 진준범 197121     0 Apr  9 09:12 ./
+drwxr-xr-x 1 진준범 197121     0 Apr  2 11:27 ../
+drwxr-xr-x 1 진준범 197121     0 Apr  9 09:10 .git/
+-rw-r--r-- 1 진준범 197121  7788 Apr  2 11:27 .gitignore
+-rw-r--r-- 1 진준범 197121 35823 Apr  2 11:27 LICENSE
+-rw-r--r-- 1 진준범 197121    89 Apr  2 11:27 README.md
+-rw-r--r-- 1 진준범 197121     0 Apr  9 09:12 test.txt
